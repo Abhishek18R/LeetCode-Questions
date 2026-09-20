@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/Abhishek18R/LeetCode-Questions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhishek18R/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Abhishek18R/LeetCode-Questions/tree/master/1800-maximum-ascending-subarray-sum) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Abhishek18R/LeetCode-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Abhishek18R/LeetCode-Questions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhishek18R/LeetCode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhishek18R/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Abhishek18R/LeetCode-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Abhishek18R/LeetCode-Questions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhishek18R/LeetCode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Abhishek18R/LeetCode-Questions/tree/master/0268-missing-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Abhishek18R/LeetCode-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
 | ------- |
