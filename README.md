@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/Abhishek18R/LeetCode-Questions/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/Abhishek18R/LeetCode-Questions/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Abhishek18R/LeetCode-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Abhishek18R/LeetCode-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/Abhishek18R/LeetCode-Questions/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/Abhishek18R/LeetCode-Questions/tree/master/0394-decode-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Abhishek18R/LeetCode-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Abhishek18R/LeetCode-Questions/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/Abhishek18R/LeetCode-Questions/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/Abhishek18R/LeetCode-Questions/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/Abhishek18R/LeetCode-Questions/tree/master/0443-string-compression) |
 ## Quickselect
 |  |
