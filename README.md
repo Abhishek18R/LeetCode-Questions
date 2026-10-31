@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Abhishek18R/LeetCode-Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/Abhishek18R/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Abhishek18R/LeetCode-Questions/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/Abhishek18R/LeetCode-Questions/tree/master/0509-fibonacci-number) |
@@ -254,5 +255,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Abhishek18R/LeetCode-Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/Abhishek18R/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
