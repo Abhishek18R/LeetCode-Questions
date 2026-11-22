@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Abhishek18R/LeetCode-Questions/tree/master/0059-spiral-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/Abhishek18R/LeetCode-Questions/tree/master/0867-transpose-matrix) |
 | [1518-water-bottles](https://github.com/Abhishek18R/LeetCode-Questions/tree/master/1518-water-bottles) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Abhishek18R/LeetCode-Questions/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Array
 |  |
 | ------- |
@@ -279,5 +280,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Abhishek18R/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Abhishek18R/LeetCode-Questions/tree/master/0237-delete-node-in-a-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Abhishek18R/LeetCode-Questions/tree/master/1019-next-greater-node-in-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Abhishek18R/LeetCode-Questions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Abhishek18R/LeetCode-Questions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 <!---LeetCode Topics End-->
